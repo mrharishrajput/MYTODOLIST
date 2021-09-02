@@ -1,0 +1,65 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+    }
+    
+
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#main{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.bg-pink{
+	background-color:pink;
+}
+#h{
+    
+    color: rgb(49, 11, 187);
+    font-variant: small-caps;
+    text-decoration-line: line-through;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#head{
+    font-size:xx-large;
+    font-style: italic;
+    font-style: bold;
+    color: rgb(243, 19, 56);
+    border: 4px solid #fa9005;
+    padding: 10px;
+    background-color: aqua;
+    border-style: groove;
+}
+#btn{
+    display: flex;
+    background-color: rgb(9, 243, 20);
+    color: black;
+    border: 1px solid red;
+}
+.edit{
+    background-color: blue;
+    margin: 2px;
+    color: white;
+    border: 1px solid rgb(241, 245, 8);
+}
+.delete{
+    background-color: red;
+    margin: 2px;
+    color: white;
+    border: 1px solid rgb(217, 240, 8);
+}
+.saveTask{
+    background-color: yellow;
+    color: rgb(7, 134, 28);
+    border: 1px solid rgb(3, 22, 3);
+}
+li{
+    font-size: x-large;
+    font-style: italic;
+    color: rgb(2, 71, 23);
+}
